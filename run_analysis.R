@@ -1,3 +1,4 @@
+library(reshape2)
 #Convert activity code to proper name
 
 Activity_name <- function(y){
